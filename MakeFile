@@ -1,0 +1,5 @@
+# Makefile
+
+# Exécute la commande messenger:consume
+consume:
+    php bin/console messenger:consume async
